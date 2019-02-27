@@ -2,7 +2,7 @@
 
 ## What is this project?
 
-The Kick Start My Chart repository shows trends related to four thousand past Kickstarter projects. 
+The Kick Start My Chart repository shows trends related to four thousand past Kickstarter projects using Microsoft Excel. 
 
 ## Background
 
